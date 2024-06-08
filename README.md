@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Pedro Santos 👋
 
-<!--
-**PedroGSantos/PedroGSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- :man_technologist: I'm a software engineer with 3+ years of experience, especially in mobile and front-end.
+- 🔭 I’m currently working at @vonbraunlabs
+- 🌱 I enjoy contributing to open source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Languages:
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
+- Frameworks and Libraries:
+  - ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
