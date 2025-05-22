@@ -2,7 +2,7 @@
 
 ### About Me
 
-- :man_technologist: I'm a software engineer with 4+ years of experience.
+- :man_technologist: I'm a software engineer with 5+ years of experience.
 - 🔭 I’m currently working at @vonbraunlabs with Free Flow Technologies.
 - 🌱 I enjoy contributing to open source projects.
 - :bulb: Interested in developing mobile and web applications.
